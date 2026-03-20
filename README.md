@@ -1,3 +1,7 @@
+## 🔗 Acesse o projeto
+
+👉 https://ana-naback-dev.github.io/sonosfera/
+
 # 🎵 Sonosfera
 
 Aplicação interativa que transforma som em visualização em tempo real.
